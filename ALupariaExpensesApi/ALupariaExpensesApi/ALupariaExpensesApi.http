@@ -1,0 +1,6 @@
+@ALupariaExpensesApi_HostAddress = http://localhost:5119
+
+GET {{ALupariaExpensesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
