@@ -16,7 +16,7 @@ namespace ApiExpenses.Controllers
         {
             _loginService = loginService;
         }
-        [HttpPost]
+        [HttpPost("/Login")]
         public async Task<ActionResult<string>> Register([FromBody] LoginDto request)
         {
             var result = await _loginService.LoginAsync(request);

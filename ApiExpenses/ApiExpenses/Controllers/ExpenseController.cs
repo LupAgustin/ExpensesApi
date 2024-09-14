@@ -37,7 +37,7 @@ namespace ApiExpenses.Controllers
             return Ok(expenses);
         }
 
-        [HttpGet("/ExpensesByDate")]
+        [HttpGet("/GetExpensesByDate")]
         [Authorize(Roles = "Admin")]
         public async Task<ActionResult<List<Expense>>> GetExpensesByDate(DateTime startDate, DateTime endDate) 
         {
@@ -62,7 +62,7 @@ namespace ApiExpenses.Controllers
             return Ok();
         }
 
-        [HttpDelete("/DeleteExpenses")]
+        [HttpDelete("/DeleteExpense")]
         public async Task<ActionResult> DeleteExpenseById(string id) 
         {
             bool expenseResult = await _expenseService.DeleteExpenseAsync(id);
