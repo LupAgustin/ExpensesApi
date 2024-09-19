@@ -19,7 +19,7 @@ namespace ApiExpenses.Controllers
             _categoryService = categoryService;
         }
 
-        [HttpGet]
+        [HttpGet("/GetCategories")]
         public async Task<ActionResult<List<Category>>> GetCategories() { 
             var result = await _categoryService.GetAllCategoriesAsync();
             if (result == null) 

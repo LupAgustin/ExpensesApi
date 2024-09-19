@@ -22,7 +22,7 @@ namespace ApiExpenses.Controllers
 
         [HttpGet("/AllExpensesAdmin")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult<List<ExpenseDto>>> GetEveryExpense() 
+        public async Task<ActionResult<List<ExpenseDto>>?> GetEveryExpense() 
         {
             var expenses = await _expenseService.GetExpensesAsync();
             if (expenses == null) { return null; }
@@ -30,7 +30,7 @@ namespace ApiExpenses.Controllers
         }
 
         [HttpGet("/AllUserExpenses")]
-        public async Task<ActionResult<List<UserExpenseDto>>> GetAllExpenses()
+        public async Task<ActionResult<List<UserExpenseDto>>?> GetAllExpenses()
         {
             var expenses = await _expenseService.GetUserExpensesAsync();
             if (expenses == null) { return null; }
@@ -39,7 +39,7 @@ namespace ApiExpenses.Controllers
 
         [HttpGet("/GetExpensesByDate")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult<List<Expense>>> GetExpensesByDate(DateTime startDate, DateTime endDate) 
+        public async Task<ActionResult<List<Expense>>?> GetExpensesByDate(DateTime startDate, DateTime endDate) 
         {
             var expenses = await _expenseService.GetByDate(startDate, endDate);
             if (expenses == null) { return null; } 

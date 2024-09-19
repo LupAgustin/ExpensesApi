@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+}
+.btn-custom {
+    background-color: #2980b9;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #6dd5fa;
+}

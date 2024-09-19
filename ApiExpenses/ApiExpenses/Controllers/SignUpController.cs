@@ -17,15 +17,15 @@ namespace ApiExpenses.Controllers
             _signUpService = signUpService;
         }
 
-        [HttpPost]
-        public async Task<ActionResult<bool>> Register([FromBody] LoginDto request)
+        [HttpPost("/SignUp")]
+        public async Task<ActionResult<string>> Register([FromBody] LoginDto request)
         {
             var result = await _signUpService.SignUpAsync(request);
             if (result == null)
             {
                 return BadRequest();
             }
-            return Ok(true);
+            return Ok();
         }
 
     }

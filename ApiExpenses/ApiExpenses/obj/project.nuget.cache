@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kJNTo+nppvk=",
+  "dgSpecHash": "hXu5RtG09zY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
+  "projectFilePath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agustin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Agustin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

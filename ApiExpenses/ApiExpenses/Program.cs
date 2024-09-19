@@ -57,10 +57,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseCors(builder =>
-    builder.WithOrigins("https://localhost:7152")
-           .AllowAnyMethod()
-           .AllowAnyHeader());
+app.UseCors(options =>
+{
+    options.AllowAnyHeader();
+    options.AllowAnyMethod();
+    options.AllowAnyOrigin();
+});
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication();

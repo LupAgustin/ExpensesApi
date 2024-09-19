@@ -1,0 +1,20 @@
+body {
+    background-color: #f7f9fc;
+}
+.navbar {
+    background-color: #2980b9;
+}
+.btn-custom {
+    background-color: #2980b9;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #6dd5fa;
+}
+.card {
+    border-radius: 1rem;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+.table th, .table td {
+    vertical-align: middle;
+}

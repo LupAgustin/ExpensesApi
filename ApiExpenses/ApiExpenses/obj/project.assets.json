@@ -4372,11 +4372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
+      "projectUniqueName": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
       "projectName": "ApiExpenses",
-      "projectPath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
+      "projectPath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\ApiExpenses.csproj",
       "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ApiExpenses\\ApiExpenses\\obj\\",
+      "outputPath": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

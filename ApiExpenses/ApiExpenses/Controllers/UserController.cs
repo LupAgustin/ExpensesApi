@@ -17,7 +17,7 @@ namespace ApiExpenses.Controllers
             _userService = userService;
         }
 
-        [HttpGet]
+        [HttpGet("/GetAllUsers")]
         public async Task<ActionResult<List<UserDto>>> GetAllUsers()
         {
             var result = await _userService.GetAllUserAsync();
