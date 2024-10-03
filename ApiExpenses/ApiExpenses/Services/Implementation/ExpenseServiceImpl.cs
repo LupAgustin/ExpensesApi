@@ -22,7 +22,19 @@ namespace ApiExpenses.Services.Implementation
 
         public async Task<bool> CreateExpenseAsync(ExpenseDtoCreate expenseDto)
         {
+
+            if (_httpContextAccessor.HttpContext.User == null)
+            {
+                return false;
+            }
+
+            var userIdClaim = _httpContextAccessor.HttpContext.User.Claims
+                .FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier);
+
+            var userId = userIdClaim.Value.ToString();
+
             Expense expense = _mapper.Map<Expense>(expenseDto);
+            expense.UserId = userId;
             expense.Id = Guid.NewGuid().ToString();
             return await _expenseRepository.SaveExpense(expense);
             

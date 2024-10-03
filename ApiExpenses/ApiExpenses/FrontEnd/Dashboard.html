@@ -26,13 +26,13 @@
             <div class="col-lg-4">
                 <div class="card p-4 mb-4">
                     <h5 class="card-title">Add New Expense</h5>
-                    <form id="expenseForm">
+                    <form id="expenseForm" onsubmit="expenseAdd()">
                         <div class="mb-3">
                             <label for="expenseAmount" class="form-label">Amount</label>
                             <input type="number" class="form-control" id="expenseAmount" required>
                         </div>
                         <div class="mb-3">
-                            <label for="expenseCategory" class="form-label">Category</label>
+                            <label for="categorySelect" class="form-label">Category</label>
                             <select class="form-select" id="categorySelect" required>
                                 
                             </select>
@@ -137,6 +137,48 @@
             var modal = bootstrap.Modal.getInstance(document.getElementById('customDateModal'));
             modal.hide();
         });
+
+
+
+
+
+        async function expenseAdd(){
+
+            // Get form values
+            const amount = document.getElementById('expenseAmount').value;
+            const categoryId = document.getElementById('categorySelect').value;
+            const date = document.getElementById('expenseDate').value;
+
+            // Validate form data
+            if (amount <= 0 || !categoryId || !date) {
+                Swal.fire("Error", "Please fill in all the fields.", "error");
+                return;
+            }
+
+            try {
+                // Call the function to add the expense
+                
+                const result = await addExpense(amount, categoryId, date);
+                
+
+                if (result) {
+                    Swal.fire("Success", "Expense added successfully!", "success");
+
+                    // Optionally, reload expenses or reset form
+                    loadExpenses(); // Refresh the expense list after adding a new expense
+                    document.getElementById('expenseForm').reset(); // Reset form after successful submission
+                    setTodayDate(); // Reset date input to today's date
+                } else {
+                    Swal.fire("Error", "Failed to add the expense. Please try again.", "error");
+                }
+            } catch (error) {
+                console.error("Error adding expense:", error);
+                Swal.fire("Error", "Something went wrong. Please try again.", "error");
+            }
+        };
+
+
+        
     </script>
 </body>
 </html>

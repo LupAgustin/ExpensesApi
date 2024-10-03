@@ -225,3 +225,55 @@ function populateExpensesTable(expenses) {
         tableBody.insertAdjacentHTML('beforeend', row);
     });
 }
+
+async function addExpense(quantity, category, datetime) {
+    const token = localStorage.getItem('token'); // Retrieve the JWT token
+    const url = baseurl + "/Expenses/CreateExpense"; // Your API endpoint for adding expenses
+    
+    const expense = JSON.stringify({
+        categoryId: category,
+        amount: quantity,
+        date: datetime
+    });
+
+    try {
+        let response = await fetch(url, {
+            method: 'POST',
+            headers: {
+                "Content-Type": "application/json",
+                'Authorization': `Bearer ${token}`
+            },
+            body: expense
+        })
+        //const data = await response;
+        let result = await response.text();
+        // Log the response status for debugging
+        console.log('Response status:', result.status);
+
+        if (!response.ok) {
+            // Log the error response for better debugging
+            const errorText = await response.text();
+            console.error('Failed to add expense:', errorText);
+            return false;
+        }
+
+        // Return success if everything is fine
+        console.log('Expense added successfully');
+        return true;
+
+    } catch (error) {
+        // Log any other errors that occur
+        console.error('Error in addExpense:', error);
+        return false;
+    }
+}
+
+
+
+
+
+
+
+
+
+
