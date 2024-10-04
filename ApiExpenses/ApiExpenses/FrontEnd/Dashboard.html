@@ -13,14 +13,12 @@
     <script src="Js/fetch-api.js"></script>
 </head>
 <body>
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Expense Tracker</a>
         </div>
     </nav>
 
-    <!-- Dashboard -->
     <div class="container mt-4">
         <div class="row">
             <div class="col-lg-4">
@@ -49,7 +47,6 @@
             <div class="col-lg-8">
                 <div class="card p-4">
                     <h5 class="card-title">Your Expenses</h5>
-                    <!-- Filter Buttons -->
                     <div class="filter-buttons mb-3">
                         <button class="btn btn-custom me-2" onclick="filterExpenses('pastWeek')">Past Week</button>
                         <button class="btn btn-custom me-2" onclick="filterExpenses('pastMonth')">Past Month</button>
@@ -68,12 +65,10 @@
                             </tr>
                         </thead>
                         <tbody id="expensesTableBody">
-                            <!-- Dynamic expenses will go here -->
                         </tbody>
                     </table>
                     <br>
                     <hr>
-                    <!-- Total Amount -->
                     <div id="totalAmount" class="mb-3">
                         Total: $0.00
                     </div>
@@ -81,31 +76,29 @@
             </div>
         </div>
 
-        <!-- Custom Date Filter Modal -->
-    <div class="modal fade" id="customDateModal" tabindex="-1" aria-labelledby="customDateModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="customDateModalLabel">Filter by Custom Dates</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <form id="customDateFilterForm">
-                        <div class="mb-3">
-                            <label for="startDate" class="form-label">Start Date</label>
-                            <input type="date" class="form-control" id="startDate" required>
-                        </div>
-                        <div class="mb-3">
-                            <label for="endDate" class="form-label">End Date</label>
-                            <input type="date" class="form-control" id="endDate" required>
-                        </div>
-                        <button type="submit" class="btn btn-custom w-100">Apply Filter</button>
-                    </form>
+        <div class="modal fade" id="customDateModal" tabindex="-1" aria-labelledby="customDateModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="customDateModalLabel">Filter by Custom Dates</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="customDateFilterForm">
+                            <div class="mb-3">
+                                <label for="startDate" class="form-label">Start Date</label>
+                                <input type="date" class="form-control" id="startDate" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="endDate" class="form-label">End Date</label>
+                                <input type="date" class="form-control" id="endDate" required>
+                            </div>
+                            <button type="submit" class="btn btn-custom w-100">Apply Filter</button>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-
     </div>
     <script>
         document.addEventListener('DOMContentLoaded', () => {

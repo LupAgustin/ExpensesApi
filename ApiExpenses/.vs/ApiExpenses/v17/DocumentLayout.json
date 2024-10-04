@@ -7,144 +7,16 @@
       "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\expenseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\expenseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\implementation\\expenserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\implementation\\expenserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\expensedtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\expensedtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\loginserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\loginserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\loginserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\loginserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\signupserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\signupserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\interface\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\interface\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\configuration\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\configuration\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\userexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\userexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\interface\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\interface\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\implementation\\signuprepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\implementation\\signuprepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\implementation\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\implementation\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\expensedtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\expensedtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\implementation\\loginrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\implementation\\loginrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\implementation\\categoryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\implementation\\categoryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\implementation\\categoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\implementation\\categoryrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\interface\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\interface\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\repositories\\interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\repositories\\interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\services\\interface\\isignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\services\\interface\\isignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|c:\\users\\agustin\\desktop\\expensesapi\\expensesapi\\apiexpenses\\apiexpenses\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824EAC4C-52A0-490D-AE4D-DD0E1F02B5A5}|ApiExpenses\\ApiExpenses.csproj|solutionrelative:apiexpenses\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,63 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SignUpServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\SignUpServiceImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Implementation\\SignUpServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\SignUpServiceImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Implementation\\SignUpServiceImpl.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxQAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:13:29.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "LoginServiceImpl.cs",
               "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\LoginServiceImpl.cs",
               "RelativeDocumentMoniker": "ApiExpenses\\Services\\Implementation\\LoginServiceImpl.cs",
               "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\LoginServiceImpl.cs",
               "RelativeToolTip": "ApiExpenses\\Services\\Implementation\\LoginServiceImpl.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCoAAAA6AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:19:05.773Z"
+              "WhenOpened": "2024-10-04T21:21:38.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExpenseServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\ExpenseServiceImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Implementation\\ExpenseServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\ExpenseServiceImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Implementation\\ExpenseServiceImpl.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAA/AAAA",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ApiExpenses\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:07:52.553Z"
+              "WhenOpened": "2024-10-04T21:21:22.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExpenseDtoCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDtoCreate.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\ExpenseDtoCreate.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDtoCreate.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\ExpenseDtoCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 3,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "ApiExpenses\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T03:38:20.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExpenseRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\ExpenseRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Implementation\\ExpenseRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\ExpenseRepositoryImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Implementation\\ExpenseRepositoryImpl.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwC8AAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:34:51.323Z"
+              "WhenOpened": "2024-10-04T21:18:36.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -228,371 +79,10 @@
               "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\ExpenseController.cs",
               "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\ExpenseController.cs",
               "RelativeToolTip": "ApiExpenses\\Controllers\\ExpenseController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDQAAAA4AAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAA9wDAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:16:25.271Z",
+              "WhenOpened": "2024-10-04T20:45:36.787Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiExpenses\\appsettings.json",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\appsettings.json",
-              "RelativeToolTip": "ApiExpenses\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T22:23:42.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpController.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\SignUpController.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\SignUpController.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\SignUpController.cs",
-              "RelativeToolTip": "ApiExpenses\\Controllers\\SignUpController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:09:49.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Program.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Program.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Program.cs",
-              "RelativeToolTip": "ApiExpenses\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAuwD0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:50:00.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IExpenseService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\IExpenseService.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Interface\\IExpenseService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\IExpenseService.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Interface\\IExpenseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:07:37.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExpenseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDto.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\ExpenseDto.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDto.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\ExpenseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:00:15.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Expense.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\Expense.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Models\\Expense.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\Expense.cs",
-              "RelativeToolTip": "ApiExpenses\\Models\\Expense.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:46:15.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ApiExpenses\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:13:37.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\UserRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Implementation\\UserRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\UserRepositoryImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Implementation\\UserRepositoryImpl.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAD4vw8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:40:08.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AutoMapperConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
-              "RelativeToolTip": "ApiExpenses\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T05:17:55.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IExpenseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\IExpenseRepository.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Interface\\IExpenseRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\IExpenseRepository.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Interface\\IExpenseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:09:03.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserExpenseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\UserExpenseDto.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\UserExpenseDto.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\UserExpenseDto.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\UserExpenseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T05:14:34.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SignUpRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\SignUpRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Implementation\\SignUpRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\SignUpRepositoryImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Implementation\\SignUpRepositoryImpl.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBgAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:21:17.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ApiExpenses\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:11:46.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ApiExpenses\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:16:32.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ExpenseDtoUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDtoUpdate.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\ExpenseDtoUpdate.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\ExpenseDtoUpdate.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\ExpenseDtoUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T03:57:39.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\CategoryDto.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\CategoryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T02:22:49.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UserServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\UserServiceImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Implementation\\UserServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\UserServiceImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Implementation\\UserServiceImpl.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:12:02.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\LoginRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Implementation\\LoginRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\LoginRepositoryImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Implementation\\LoginRepositoryImpl.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBMAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:11:01.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:14:24.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\Category.cs",
-              "RelativeToolTip": "ApiExpenses\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T02:22:50.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Interface\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ICategoryService.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Interface\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:32:14.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\CategoryRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Implementation\\CategoryRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Implementation\\CategoryRepositoryImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Implementation\\CategoryRepositoryImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:33:12.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Interface\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ICategoryRepository.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:33:09.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CategoryServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\CategoryServiceImpl.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Implementation\\CategoryServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Implementation\\CategoryServiceImpl.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Implementation\\CategoryServiceImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:30:24.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ILoginService.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Interface\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ILoginService.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Interface\\ILoginService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:25:15.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ILoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ILoginRepository.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Interface\\ILoginRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ILoginRepository.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Interface\\ILoginRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:14:55.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ISignUpRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ISignUpRepository.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Repositories\\Interface\\ISignUpRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Repositories\\Interface\\ISignUpRepository.cs",
-              "RelativeToolTip": "ApiExpenses\\Repositories\\Interface\\ISignUpRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:21:13.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ISignUpService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ISignUpService.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Services\\Interface\\ISignUpService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Services\\Interface\\ISignUpService.cs",
-              "RelativeToolTip": "ApiExpenses\\Services\\Interface\\ISignUpService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:18:59.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\Models\\User.cs",
-              "RelativeToolTip": "ApiExpenses\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:05:12.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "ApiExpenses\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Agustin\\Desktop\\ExpensesApi\\ExpensesApi\\ApiExpenses\\ApiExpenses\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "ApiExpenses\\DTOs\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:14:24.621Z"
             }
           ]
         },

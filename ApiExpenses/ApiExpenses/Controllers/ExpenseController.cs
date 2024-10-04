@@ -46,7 +46,7 @@ namespace ApiExpenses.Controllers
             return Ok(expenses);
         }
 
-        [HttpPost("Expenses/CreateExpense")]
+        [HttpPut("/CreateExpense")]
         public async Task<ActionResult> CreateExpense([FromBody] ExpenseDtoCreate expenseDto) 
         { 
             bool expenseResult = await _expenseService.CreateExpenseAsync(expenseDto);
